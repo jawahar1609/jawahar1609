@@ -8,4 +8,5 @@ Currently: CSE-AI Student at Amrita Vishwa Vidyapeetham.
 * Python 
 * Java
 * C++
+* Scala
 * MATLAB
