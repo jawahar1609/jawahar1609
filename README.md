@@ -4,7 +4,8 @@ I'm Jawahar!
 
 Currently: CSE-AI Student at Amrita Vishwa Vidyapeetham.
 
-## Instreted to work on 💻 
-* machine learning 
-* software development
-* data analysis
+## Languages im good at 💻 
+* Python 
+* Java
+* C++
+* MATLAB
