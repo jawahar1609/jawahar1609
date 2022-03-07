@@ -8,6 +8,6 @@ Currently: CSE-AI Student at Amrita Vishwa Vidyapeetham.
 
 machine learning 
 
-software developer
+software development
 
 data analysis
