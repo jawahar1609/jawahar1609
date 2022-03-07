@@ -1,5 +1,4 @@
-# Jawahar
-GitHub Profile README
+# Hey!👋
 
 I'm Jawahar!
 
