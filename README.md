@@ -9,5 +9,4 @@ I'm Jawahar! <br>
 * Python 
 * Java
 * C++
-* Scala
 * MATLAB
